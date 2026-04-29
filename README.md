@@ -32,7 +32,7 @@
 
 核心算法受中国专利保护，公布号为 **CN121167079A**。
 根据 Apache License 2.0 条款，使用本软件的用户即获得上述专利的免费许可。
-详见 [PATENTS](PATENTS)。
+详见 [PATENTS](PATENTS.md)。
 
 ## For English users
 ### Overview
@@ -70,4 +70,4 @@ This project is licensed under the [Apache License 2.0](LICENSE).
 The core algorithm is protected under Chinese Patent Publication
 No. **CN121167079A**. Users of this software are granted a
 royalty-free patent license under the terms of Apache License 2.0.
-See [PATENTS](PATENTS) for details.
+See [PATENTS](PATENTS.md) for details.
