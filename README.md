@@ -6,7 +6,7 @@
 
 ### 使用说明
 1. `OriginalMatlabCode`中为计算原理核心的matlab源程序
-2. `CompiledSoftware`压缩包中为经过python重写后的计算软件，加入了GUI界面（中文/English），方便用户使用，可以实现：  
+2. `CompiledSoftware`压缩包中为经过python重写后的计算软件（在右边的`Release`中），加入了GUI界面（中文/English），方便用户使用，可以实现：  
     - 计算咸淡水交界面（二维、三维）
     - 添加入渗补给（recharge）
     - 添加井
